@@ -11,7 +11,9 @@
   color: rgb(88, 88, 88);
   text-decoration: none;
 }
-
+.comment-para{
+  color:rgb(88, 88, 88) ;
+}
 .post-list:hover{
   color: #f38375;
 }
@@ -52,4 +54,18 @@ h2, h3{
 
 .post-para{
   margin: 1%;
+}
+
+.comment-div{
+  border: 2px solid #ef6351;
+  margin: 1%;
+  padding: 2%;
+  width: 50%;
+  border-radius: 5px;
+}
+
+.comment-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
