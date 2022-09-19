@@ -24,7 +24,7 @@ const PostInfo = () => {
       {post && <>
       <h2>Post</h2>
       <h3>{post.title}</h3>
-      <p className="comment-para"> {post.body}</p>
+      <p className="comment-para body-para"> {post.body}</p>
       </>
         
         }

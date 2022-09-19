@@ -14,6 +14,11 @@
 .comment-para{
   color:rgb(88, 88, 88) ;
 }
+
+.body-para{
+margin:0 5%;
+}
+
 .post-list:hover{
   color: #f38375;
 }
