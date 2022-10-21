@@ -1,10 +1,6 @@
-
 import PostInfo from "../components/PostInfo";
 const Post = () => {
+  return <PostInfo />;
+};
 
-  return (
-    < PostInfo />
-  )
-}
-
-export default Post
+export default Post;

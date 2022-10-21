@@ -1,16 +1,11 @@
 import PostList from "../components/PostList";
 
 const Home = () => {
-
-return (
+  return (
     <>
-    
-    < PostList />
-   
+      <PostList />
     </>
-  )
-
-
-}
+  );
+};
 
 export default Home;
